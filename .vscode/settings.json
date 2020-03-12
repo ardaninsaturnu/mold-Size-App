@@ -1,0 +1,8 @@
+{
+    "files.exclude": {
+        "__tests__/": true,
+        ".vscode/": true,
+        "ios/": true,
+        "node_modules/": true
+    }
+}
